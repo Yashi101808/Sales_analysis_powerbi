@@ -47,6 +47,16 @@ Key goals:
 - Cross-filtering for interactive analysis 🔄  
 
 ---
+## Snapshots
+<img width="2552" height="1227" alt="image" src="https://github.com/user-attachments/assets/b572a98b-574d-4eaa-8d97-19fec052f13d" />
+
+<img width="2558" height="1192" alt="image" src="https://github.com/user-attachments/assets/1c4fb22e-4471-4d36-98ea-ca77057b60a4" />
+
+<img width="2558" height="1192" alt="image" src="https://github.com/user-attachments/assets/52d53599-6d0b-4859-9565-bcd4bb51f00c" />
+
+
+
+
 
 ## ⚡ Features  
 - Three-page interactive report with synced slicers 🔄  
